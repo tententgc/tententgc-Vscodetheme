@@ -9,6 +9,12 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tententgc/tententgc-vscodetheme.git"
+  }
+  ,
+  "license": "SEE LICENSE IN LICENSE.txt",
   "contributes": {
     "themes": [
       {

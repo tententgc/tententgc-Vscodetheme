@@ -1,4 +1,4 @@
-# tententgc-vscodetheme README
+# tententgc vscode theme 
 
 ## Working with Markdown
 
