@@ -1,0 +1,21 @@
+{
+  "name": "tententgc-vscodetheme",
+  "displayName": "tententgc-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tententgc-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tententgc-theme-color-theme.json"
+      }
+    ]
+  }
+}
